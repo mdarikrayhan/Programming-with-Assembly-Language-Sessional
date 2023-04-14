@@ -1,5 +1,5 @@
 # Programming with Assembly Language Sessional
-# CSE-3216 Sessional Digital Image Processing
+[Emu8086v4.08 with Serial Key]: https://github.com/mdarikrayhan/Programming-with-Assembly-Language-Sessional/tree/main/emu8086v408
 <h3>This repo contains solution to the following Problems:</h3>
 <p>
 01. Integer input and output <br>
@@ -16,6 +16,6 @@
 12. Convert uppercase letter to lowercase <br>
 13. Finding larger number between two numbers<br> 
 14. Finding larger number between three numbers <br>
-15. Calculate average of 3 CT marks(5) and print <br>
-    Pass if its greater than 3 else print Fail 
+15. Calculate average of 3 CT marks(5) and print Pass if its greater than 3 else print Fail <br>
+
 </p>
